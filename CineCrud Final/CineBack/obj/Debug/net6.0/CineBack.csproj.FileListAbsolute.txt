@@ -1,0 +1,204 @@
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineBack\bin\Debug\net6.0\CineBack.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineBack\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineBack\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineBack\obj\Debug\net6.0\CineBack.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineBack\obj\Debug\net6.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineBack\obj\Debug\net6.0\CineBack.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineBack\obj\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineBack\obj\Debug\net6.0\refint\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineBack\obj\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TpGrupal\CineBack\obj\Debug\net6.0\ref\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineBack\bin\Debug\net6.0\CineBack.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineBack\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineBack\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineBack\obj\Debug\net6.0\CineBack.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineBack\obj\Debug\net6.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineBack\obj\Debug\net6.0\CineBack.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineBack\obj\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineBack\obj\Debug\net6.0\refint\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineBack\obj\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\U4 - Introduccion a Servicios\TpGrupal\CineBack\obj\Debug\net6.0\ref\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineBack\bin\Debug\net6.0\CineBack.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineBack\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineBack\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineBack\obj\Debug\net6.0\CineBack.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineBack\obj\Debug\net6.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineBack\obj\Debug\net6.0\CineBack.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineBack\obj\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineBack\obj\Debug\net6.0\refint\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineBack\obj\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\U5 - Web API CRUD\Clase - 27.10.21\CineBack\obj\Debug\net6.0\ref\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineBack\bin\Debug\net6.0\CineBack.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineBack\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineBack\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineBack\obj\Debug\net6.0\CineBack.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineBack\obj\Debug\net6.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineBack\obj\Debug\net6.0\CineBack.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineBack\obj\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineBack\obj\Debug\net6.0\refint\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineBack\obj\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V2 - ClienteSgl\CineBack\obj\Debug\net6.0\ref\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineBack\bin\Debug\net6.0\CineBack.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineBack\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineBack\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineBack\obj\Debug\net6.0\CineBack.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineBack\obj\Debug\net6.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineBack\obj\Debug\net6.0\CineBack.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineBack\obj\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineBack\obj\Debug\net6.0\refint\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineBack\obj\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V3 - Enum\CineBack\obj\Debug\net6.0\ref\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineBack\bin\Debug\net6.0\CineBack.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineBack\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineBack\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineBack\obj\Debug\net6.0\CineBack.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineBack\obj\Debug\net6.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineBack\obj\Debug\net6.0\CineBack.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineBack\obj\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineBack\obj\Debug\net6.0\refint\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineBack\obj\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V4 - Barrio, Tipo, Genero\CineBack\obj\Debug\net6.0\ref\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineBack\obj\Debug\net6.0\CineBack.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineBack\obj\Debug\net6.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineBack\obj\Debug\net6.0\CineBack.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineBack\obj\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineBack\obj\Debug\net6.0\refint\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineBack\obj\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineBack\bin\Debug\net6.0\CineBack.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineBack\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineBack\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V5 - Butacas\CineBack\obj\Debug\net6.0\ref\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineBack\bin\Debug\net6.0\CineBack.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineBack\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineBack\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineBack\obj\Debug\net6.0\CineBack.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineBack\obj\Debug\net6.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineBack\obj\Debug\net6.0\CineBack.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineBack\obj\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineBack\obj\Debug\net6.0\refint\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineBack\obj\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V6 - Flp Bien Cargado\CineBack\obj\Debug\net6.0\ref\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V7 - txtPrecio cambiado\CineBack\bin\Debug\net6.0\CineBack.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V7 - txtPrecio cambiado\CineBack\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V7 - txtPrecio cambiado\CineBack\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V7 - txtPrecio cambiado\CineBack\obj\Debug\net6.0\CineBack.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V7 - txtPrecio cambiado\CineBack\obj\Debug\net6.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V7 - txtPrecio cambiado\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V7 - txtPrecio cambiado\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V7 - txtPrecio cambiado\CineBack\obj\Debug\net6.0\CineBack.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V7 - txtPrecio cambiado\CineBack\obj\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V7 - txtPrecio cambiado\CineBack\obj\Debug\net6.0\refint\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V7 - txtPrecio cambiado\CineBack\obj\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V7 - txtPrecio cambiado\CineBack\obj\Debug\net6.0\ref\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V8 - ConsultaComprobantes\CineBack\bin\Debug\net6.0\CineBack.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V8 - ConsultaComprobantes\CineBack\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V8 - ConsultaComprobantes\CineBack\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V8 - ConsultaComprobantes\CineBack\obj\Debug\net6.0\CineBack.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V8 - ConsultaComprobantes\CineBack\obj\Debug\net6.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V8 - ConsultaComprobantes\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V8 - ConsultaComprobantes\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V8 - ConsultaComprobantes\CineBack\obj\Debug\net6.0\CineBack.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V8 - ConsultaComprobantes\CineBack\obj\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V8 - ConsultaComprobantes\CineBack\obj\Debug\net6.0\refint\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V8 - ConsultaComprobantes\CineBack\obj\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V8 - ConsultaComprobantes\CineBack\obj\Debug\net6.0\ref\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V9 - Login\CineBack\bin\Debug\net6.0\CineBack.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V9 - Login\CineBack\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V9 - Login\CineBack\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V9 - Login\CineBack\obj\Debug\net6.0\CineBack.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V9 - Login\CineBack\obj\Debug\net6.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V9 - Login\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V9 - Login\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V9 - Login\CineBack\obj\Debug\net6.0\CineBack.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V9 - Login\CineBack\obj\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V9 - Login\CineBack\obj\Debug\net6.0\refint\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V9 - Login\CineBack\obj\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V9 - Login\CineBack\obj\Debug\net6.0\ref\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V10 - frmComprobanteAM Validado\CineBack\bin\Debug\net6.0\CineBack.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V10 - frmComprobanteAM Validado\CineBack\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V10 - frmComprobanteAM Validado\CineBack\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V10 - frmComprobanteAM Validado\CineBack\obj\Debug\net6.0\CineBack.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V10 - frmComprobanteAM Validado\CineBack\obj\Debug\net6.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V10 - frmComprobanteAM Validado\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V10 - frmComprobanteAM Validado\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V10 - frmComprobanteAM Validado\CineBack\obj\Debug\net6.0\CineBack.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V10 - frmComprobanteAM Validado\CineBack\obj\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V10 - frmComprobanteAM Validado\CineBack\obj\Debug\net6.0\refint\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V10 - frmComprobanteAM Validado\CineBack\obj\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V10 - frmComprobanteAM Validado\CineBack\obj\Debug\net6.0\ref\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V11 - Presentación\CineBack\bin\Debug\net6.0\CineBack.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V11 - Presentación\CineBack\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V11 - Presentación\CineBack\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V11 - Presentación\CineBack\obj\Debug\net6.0\CineBack.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V11 - Presentación\CineBack\obj\Debug\net6.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V11 - Presentación\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V11 - Presentación\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V11 - Presentación\CineBack\obj\Debug\net6.0\CineBack.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V11 - Presentación\CineBack\obj\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V11 - Presentación\CineBack\obj\Debug\net6.0\refint\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V11 - Presentación\CineBack\obj\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\V11 - Presentación\CineBack\obj\Debug\net6.0\ref\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV11 - Presentación\CineBack\bin\Debug\net6.0\CineBack.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV11 - Presentación\CineBack\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV11 - Presentación\CineBack\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV11 - Presentación\CineBack\obj\Debug\net6.0\CineBack.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV11 - Presentación\CineBack\obj\Debug\net6.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV11 - Presentación\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV11 - Presentación\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV11 - Presentación\CineBack\obj\Debug\net6.0\CineBack.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV11 - Presentación\CineBack\obj\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV11 - Presentación\CineBack\obj\Debug\net6.0\refint\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV11 - Presentación\CineBack\obj\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV11 - Presentación\CineBack\obj\Debug\net6.0\ref\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\bin\Debug\net6.0\CineBack.deps.json
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\bin\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\bin\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\obj\Debug\net6.0\CineBack.csproj.AssemblyReference.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\obj\Debug\net6.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfoInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfo.cs
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\obj\Debug\net6.0\CineBack.csproj.CoreCompileInputs.cache
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\obj\Debug\net6.0\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\obj\Debug\net6.0\refint\CineBack.dll
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\obj\Debug\net6.0\CineBack.pdb
+D:\Tecnicatura universitaria en programación\Programacion II\TP Grupal\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\obj\Debug\net6.0\ref\CineBack.dll
+C:\Users\flore\OneDrive\Escritorio\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\bin\Debug\net6.0\CineBack.deps.json
+C:\Users\flore\OneDrive\Escritorio\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\bin\Debug\net6.0\CineBack.dll
+C:\Users\flore\OneDrive\Escritorio\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\bin\Debug\net6.0\CineBack.pdb
+C:\Users\flore\OneDrive\Escritorio\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\obj\Debug\net6.0\CineBack.csproj.AssemblyReference.cache
+C:\Users\flore\OneDrive\Escritorio\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\obj\Debug\net6.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flore\OneDrive\Escritorio\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfoInputs.cache
+C:\Users\flore\OneDrive\Escritorio\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfo.cs
+C:\Users\flore\OneDrive\Escritorio\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\obj\Debug\net6.0\CineBack.csproj.CoreCompileInputs.cache
+C:\Users\flore\OneDrive\Escritorio\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\obj\Debug\net6.0\CineBack.dll
+C:\Users\flore\OneDrive\Escritorio\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\obj\Debug\net6.0\refint\CineBack.dll
+C:\Users\flore\OneDrive\Escritorio\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\obj\Debug\net6.0\CineBack.pdb
+C:\Users\flore\OneDrive\Escritorio\zV12 - DataGridViewComboBox - frmConsultarClientes\CineBack\obj\Debug\net6.0\ref\CineBack.dll
+C:\Users\flore\OneDrive\Escritorio\TP\zV12 - DataGridViewComboBox - frmConsultarClientes - Copy\CineBack\bin\Debug\net6.0\CineBack.deps.json
+C:\Users\flore\OneDrive\Escritorio\TP\zV12 - DataGridViewComboBox - frmConsultarClientes - Copy\CineBack\bin\Debug\net6.0\CineBack.dll
+C:\Users\flore\OneDrive\Escritorio\TP\zV12 - DataGridViewComboBox - frmConsultarClientes - Copy\CineBack\bin\Debug\net6.0\CineBack.pdb
+C:\Users\flore\OneDrive\Escritorio\TP\zV12 - DataGridViewComboBox - frmConsultarClientes - Copy\CineBack\obj\Debug\net6.0\CineBack.csproj.AssemblyReference.cache
+C:\Users\flore\OneDrive\Escritorio\TP\zV12 - DataGridViewComboBox - frmConsultarClientes - Copy\CineBack\obj\Debug\net6.0\CineBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flore\OneDrive\Escritorio\TP\zV12 - DataGridViewComboBox - frmConsultarClientes - Copy\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfoInputs.cache
+C:\Users\flore\OneDrive\Escritorio\TP\zV12 - DataGridViewComboBox - frmConsultarClientes - Copy\CineBack\obj\Debug\net6.0\CineBack.AssemblyInfo.cs
+C:\Users\flore\OneDrive\Escritorio\TP\zV12 - DataGridViewComboBox - frmConsultarClientes - Copy\CineBack\obj\Debug\net6.0\CineBack.csproj.CoreCompileInputs.cache
+C:\Users\flore\OneDrive\Escritorio\TP\zV12 - DataGridViewComboBox - frmConsultarClientes - Copy\CineBack\obj\Debug\net6.0\CineBack.dll
+C:\Users\flore\OneDrive\Escritorio\TP\zV12 - DataGridViewComboBox - frmConsultarClientes - Copy\CineBack\obj\Debug\net6.0\refint\CineBack.dll
+C:\Users\flore\OneDrive\Escritorio\TP\zV12 - DataGridViewComboBox - frmConsultarClientes - Copy\CineBack\obj\Debug\net6.0\CineBack.pdb
+C:\Users\flore\OneDrive\Escritorio\TP\zV12 - DataGridViewComboBox - frmConsultarClientes - Copy\CineBack\obj\Debug\net6.0\ref\CineBack.dll
